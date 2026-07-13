@@ -31,7 +31,7 @@ https://www.electronicwings.com/raspberry-pi/mpu6050-accelerometergyroscope-inte
 5. Initialize server on host PC.
 6. Execute glovebackend.py.
 
-## Example Program: Spider-Man Web Shooters Mini-Program Example (Made with PyQt)
+## Example Program: Spider-Man Web Shooters Mini-Game Example (Made with PyQt)
 <img width="423" height="557" alt="Screenshot 2026-07-12 at 10 46 30 PM" src="https://github.com/user-attachments/assets/c65e8e47-3e9d-40ca-a891-1f04d3178bfb" /> <img width="341" height="422" alt="Screenshot 2026-07-12 at 10 48 43 PM" src="https://github.com/user-attachments/assets/bd24f9d2-26bf-43fb-ab43-e4fcb4f2da1e" />
 
 
