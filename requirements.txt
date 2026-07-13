@@ -1,0 +1,4 @@
+sockets
+RPI.GPIO
+mpu6050
+pynput
